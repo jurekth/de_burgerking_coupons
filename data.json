@@ -4,13 +4,13 @@
         "id": "60848",
         "name": "2 Chicken Burger",
         "description": "2 Chicken Nugget Burger",
-        "price": "99.99"
+        "price": "2.49"
       },
       {
         "id": "60872",
         "name": "2 Chicken Burger",
         "description": "2 Chicken Nugget Burger",
-        "price": "4.20"
+        "price": "1.99"
       },
       {
         "id": "44185",
@@ -19,10 +19,10 @@
         "price": "0.99"
       },
 	  {
-        "id": "https://open.spotify.com/track/2XIE9WTy9JIuo7P5WnWU1l?si=244815a2a392447c",
-        "name": "Meant to Be",
-        "description": "David Nash",
-        "price": "69.420"
+        "id": "32770",
+        "name": "2 Whopper Jr. Menü",
+        "description": "2 Whopper Jr. + L Pommes + 0.5L",
+        "price": "6.49"
       }   
 	
     ]
