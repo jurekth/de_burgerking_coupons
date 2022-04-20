@@ -4,26 +4,30 @@
         "id": "60848",
         "name": "2 Chicken Burger",
         "description": "2 Chicken Nugget Burger",
-        "price": "2.49"
+        "price": "2.49",
+		"real": "1"
       },
       {
         "id": "60872",
         "name": "2 Chicken Burger",
         "description": "2 Chicken Nugget Burger",
-        "price": "1.99"
+        "price": "1.99",
+		"real": "0"
       },
       {
         "id": "44185",
         "name": "King Sundae",
         "description": "King Sundae",
-        "price": "0.99"
+        "price": "0.99",
+		"real": "1"
       },
 	  {
         "id": "32770",
         "name": "2 Whopper Jr. Menü",
         "description": "2 Whopper Jr. + L Pommes + 0.5L",
-        "price": "6.49"
-      }   
+        "price": "6.49",
+		"real": "1"
+      }
 	
     ]
   }
